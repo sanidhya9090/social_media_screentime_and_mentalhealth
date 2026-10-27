@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#4c78ff"
+base = "light"
+
+[server]
+headless = true
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
